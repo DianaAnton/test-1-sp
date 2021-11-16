@@ -1,5 +1,5 @@
 public class Main {
-    public static void main() {
+    public static void main(String[] args) {
 
         StructuraFiguri struct1 = new StructuraFiguri();
         StructuraFiguri struct2 = new StructuraFiguri();

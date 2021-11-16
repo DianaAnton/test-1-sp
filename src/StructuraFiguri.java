@@ -27,7 +27,7 @@ public class StructuraFiguri implements Element {
     }
 
     public void print() {
-        System.out.println("Structura de figuri are " + number_of_figures + "elemente.");
+        System.out.println("Structura de figuri are " + number_of_figures + " elemente.");
         for (Element el : figures) {
             el.print();
         }
